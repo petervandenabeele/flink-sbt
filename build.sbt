@@ -11,6 +11,7 @@ lazy val root = (project in file(".")).
   settings(commonSettings: _*).
   settings(
     name := "flink-sbt",
+    fork in run := true,
     libraryDependencies += flink_scala_0_10_0,
     libraryDependencies += flink_clients_0_10_0
   )
