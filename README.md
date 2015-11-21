@@ -28,3 +28,8 @@ $ sbt run
 [info] (that,1)
 [success] Total time: 4 s, completed Nov 21, 2015 9:24:12 PM
 ```
+
+## Reference
+
+This is based on the last paragraph of the Apache Flink [Quickstart](https://ci.apache.org/projects/flink/flink-docs-release-0.10/quickstart/scala_api_quickstart.html) documentation.
+I found the `sbt` method a lot easier for a "quickstart" from scratch.
