@@ -1,4 +1,4 @@
-# flink-sbt: Simple Apache Flink program in sbt directory structure
+# flink-sbt: simple Apache Flink program in sbt directory structure
 
 This is an extremely minimal program (only 2 "real" files) that runs
 an [Apache Flink](https://flink.apache.org/) 0.10.0 program with a
